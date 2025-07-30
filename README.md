@@ -154,6 +154,12 @@ The script returns helpful messages when:
 
 ---
 
+## 📞 Support
+
+Join the [SIDOR Community Discord](https://discord.gg/2pcKpMrxdD) to get help, suggest features, or just hang out with other creators using this system.
+
+---
+
 ## 💬 Feedback or Contributions
 
 Want to submit more facts or categories?
